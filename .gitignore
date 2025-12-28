@@ -3,8 +3,8 @@
 **/artifacts/**
 
 # Remix plugin state folders
-deps/
-states/
+.deps/
+.states/
 
 # Debug info
 *.dbg.json
@@ -13,6 +13,3 @@ states/
 # Optional
 .env
 .env.local
-
-# Dependencies
-.deps
