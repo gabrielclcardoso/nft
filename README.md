@@ -16,6 +16,10 @@ BSC was chosen because of it's compatibility with the Ethereum ecosystem and use
 programming language, with the advantage of faster transaction times and lower gas fees compared to Ethereum.
 It was also chosen due to my familiarity with the ecosystem and having done previous projects on the chain.
 
+### Image storaging Choice
+The protocol used for storing the image was IPFS. And the website used to publish the image was pinata.
+Pinata was used because of it's free tier that allows the upload of up to 1GB or 500 files.
+
 ### Developer Tools Choices
 
 #### IDE
