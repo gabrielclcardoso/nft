@@ -37,3 +37,12 @@ For this project the decision was made to use OpenZeppelin's contract libraries.
 project on the web3 space and it's contract libraries are used in a wide range of projects on chain. Given it
 is a battle tested library that supplies templates for easily developping BEP-721 compliant tokens it was an
 easy choice.
+
+#### OpenZeppelin features
+* The feature Mintable was used to get the base template for the safeMint function
+* The feature URI Storage was used to store the URI for the metadata
+* The Roles feature was used to better managed access to the smart contract
+
+#### Override of the `_update` function
+The function `_update` was overwritten to make the NFT soulbound, meaning that after the student receives the NFT
+he cannot transfer it to another wallet
