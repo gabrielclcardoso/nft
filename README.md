@@ -46,3 +46,6 @@ easy choice.
 #### Override of the `_update` function
 The function `_update` was overwritten to make the NFT soulbound, meaning that after the student receives the NFT
 he cannot transfer it to another wallet
+
+### Contract address
+[0x51E2Fff1745F0D4a93A41B126a7ABaa994D619CD](https://testnet.bscscan.com/address/0x51E2Fff1745F0D4a93A41B126a7ABaa994D619CD)
