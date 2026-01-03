@@ -20,6 +20,9 @@ It was also chosen due to my familiarity with the ecosystem and having done prev
 The protocol used for storing the image was IPFS. And the website used to publish the image was pinata.
 Pinata was used because of it's free tier that allows the upload of up to 1GB or 500 files.
 
+### Metadata standard
+The metadata standard followed was OpenSea's standard which can be found [here](https://docs.opensea.io/docs/metadata-standards).
+
 ### Developer Tools Choices
 
 #### IDE
